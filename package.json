@@ -1,6 +1,6 @@
 {
     "name": "ardelon-cv",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Alihan Keskin CV",
     "main": "index.js",
     "bin": {
