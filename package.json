@@ -11,7 +11,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com"
+      "url": "git+https://github.com/Ardelon/ardelon-npx-cv"
     },
     "keywords": [
       "alihan",
@@ -20,7 +20,7 @@
     ],
     "author": "Alihan Keskin",
     "bugs": {
-      "url": "https://github.com"
+      "url": "https://github.com/Ardelon/ardelon-npx-cv/issues"
     },
-    "homepage": "https://github.com"
+    "homepage": "https://github.com/Ardelon/ardelon-npx-cv/blob/master/README"
   }
